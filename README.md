@@ -29,3 +29,7 @@ one more  *method* text
 - Number 1
 - Number 2
 
+### Add images
+##### for pngs/jpegs/jps
+
+<img src = "https://sbr-technologies.com/wp-content/uploads/2020/07/cloud-engineering.jpg">
